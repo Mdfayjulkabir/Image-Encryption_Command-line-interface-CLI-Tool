@@ -19,7 +19,7 @@ A simple command-line tool to **encrypt and decrypt image files** using **passwo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mdfayjulkabir/Image-Encryption_Command-line-interface-CLI-Tool.git
-   cd image-encryption-cli
+   cd Image-Encryption_Command-line-interface-CLI-Tool
    ```
 
 2. Install dependencies( if needed):
